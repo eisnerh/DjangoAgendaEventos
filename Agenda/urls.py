@@ -1,5 +1,6 @@
 from django.urls import path
 
 urlpatterns = [
-    path('hello/', ),
-]
+
+        path(r'', 'Agenda.urls'),
+    ]
