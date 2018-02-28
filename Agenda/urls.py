@@ -1,6 +1,7 @@
 from django.urls import path
 
-urlpatterns = [
+from . import views
 
-        path(r'', 'Agenda.urls'),
-    ]
+urlpatterns = [
+    path('', views.index, name='index'),
+]
