@@ -1,8 +1,12 @@
 from django.shortcuts import render
 
 # Create your views here.
-from django.http import HttpResponse
 
 
-def index(request):
-    return HttpResponse("Hello from the other side!")
+def test(request):
+    return render(request, "Agendas/Test.html")
+
+
+def add(request):
+    return render(request, "Agendas/agregar_clientes.html")
+
