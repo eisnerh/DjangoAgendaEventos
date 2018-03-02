@@ -2,450 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4970177d-d5f6-440b-bcee-92d8dd649fc4" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Agenda/templates/Agendas/Test.html" />
-      <change beforePath="$PROJECT_DIR$/.idea/AgendaEventos.iml" afterPath="$PROJECT_DIR$/.idea/AgendaEventos.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bookorange.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Agenda/templates/Agendas/clientes.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Agenda/templates/Agendas/eventos.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Agenda/templates/Agendas/footer.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Agenda/templates/Agendas/head.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Agenda/templates/Agendas/header.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Agenda/templates/Agendas/materiales.html" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/ace.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/ace.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/.babelrc.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/.babelrc.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/.editorconfig" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/.editorconfig" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/.eslintignore" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/.eslintignore" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/.eslintrc.json" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/.eslintrc.json" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/.gitattributes" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/.gitattributes" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/.github/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/.github/CONTRIBUTING.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/.github/ISSUE_TEMPLATE.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/.github/ISSUE_TEMPLATE.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/.gitignore" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/.gitignore" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/.stylelintignore" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/.stylelintignore" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/.stylelintrc" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/.stylelintrc" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/.travis.yml" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/.travis.yml" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/CNAME" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/CNAME" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/CODE_OF_CONDUCT.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/CODE_OF_CONDUCT.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/Gemfile" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/Gemfile" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/Gemfile.lock" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/Gemfile.lock" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/LICENSE" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/LICENSE" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/README.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/README.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/_config.yml" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/_config.yml" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/_data/breakpoints.yml" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/_data/breakpoints.yml" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/_data/browser-bugs.yml" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/_data/browser-bugs.yml" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/_data/browser-features.yml" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/_data/browser-features.yml" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/_data/colors.yml" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/_data/colors.yml" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/_data/examples.yml" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/_data/examples.yml" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/_data/grays.yml" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/_data/grays.yml" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/_data/nav.yml" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/_data/nav.yml" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/_data/theme-colors.yml" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/_data/theme-colors.yml" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/_data/translations.yml" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/_data/translations.yml" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/_includes/ads.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/_includes/ads.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/_includes/callout-danger-async-methods.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/_includes/callout-danger-async-methods.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/_includes/callout-info-mediaqueries-breakpoints.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/_includes/callout-info-mediaqueries-breakpoints.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/_includes/callout-warning-color-assistive-technologies.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/_includes/callout-warning-color-assistive-technologies.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/_includes/docs-navbar.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/_includes/docs-navbar.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/_includes/docs-sidebar.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/_includes/docs-sidebar.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/_includes/favicons.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/_includes/favicons.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/_includes/footer.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/_includes/footer.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/_includes/header.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/_includes/header.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/_includes/icons/bootstrap.svg" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/_includes/icons/bootstrap.svg" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/_includes/icons/download.svg" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/_includes/icons/download.svg" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/_includes/icons/github.svg" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/_includes/icons/github.svg" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/_includes/icons/import.svg" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/_includes/icons/import.svg" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/_includes/icons/lightning.svg" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/_includes/icons/lightning.svg" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/_includes/icons/menu.svg" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/_includes/icons/menu.svg" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/_includes/icons/slack.svg" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/_includes/icons/slack.svg" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/_includes/icons/twitter.svg" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/_includes/icons/twitter.svg" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/_includes/scripts.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/_includes/scripts.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/_includes/social.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/_includes/social.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/_layouts/default.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/_layouts/default.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/_layouts/docs.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/_layouts/docs.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/_layouts/examples.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/_layouts/examples.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/_layouts/home.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/_layouts/home.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/_layouts/redirect.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/_layouts/redirect.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/_layouts/simple.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/_layouts/simple.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/_plugins/bugify.rb" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/_plugins/bugify.rb" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/_plugins/callout.rb" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/_plugins/callout.rb" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/_plugins/example.rb" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/_plugins/example.rb" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/_plugins/markdown-block.rb" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/_plugins/markdown-block.rb" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/brand/bootstrap-outline.svg" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/brand/bootstrap-outline.svg" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/brand/bootstrap-punchout.svg" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/brand/bootstrap-punchout.svg" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/brand/bootstrap-social-logo.png" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/brand/bootstrap-social-logo.png" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/brand/bootstrap-social.png" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/brand/bootstrap-social.png" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/brand/bootstrap-solid.svg" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/brand/bootstrap-solid.svg" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/css/docs.min.css" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/css/docs.min.css" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/css/docs.min.css.map" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/css/docs.min.css.map" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/img/bootstrap-stack.png" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/img/bootstrap-stack.png" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/img/bootstrap-themes.png" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/img/bootstrap-themes.png" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/img/favicons/android-chrome-192x192.png" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/img/favicons/android-chrome-192x192.png" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/img/favicons/android-chrome-512x512.png" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/img/favicons/android-chrome-512x512.png" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/img/favicons/apple-touch-icon.png" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/img/favicons/apple-touch-icon.png" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/img/favicons/browserconfig.xml" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/img/favicons/browserconfig.xml" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/img/favicons/favicon-16x16.png" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/img/favicons/favicon-16x16.png" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/img/favicons/favicon-32x32.png" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/img/favicons/favicon-32x32.png" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/img/favicons/manifest.json" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/img/favicons/manifest.json" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/img/favicons/mstile-144x144.png" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/img/favicons/mstile-144x144.png" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/img/favicons/mstile-150x150.png" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/img/favicons/mstile-150x150.png" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/img/favicons/mstile-310x150.png" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/img/favicons/mstile-310x150.png" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/img/favicons/mstile-310x310.png" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/img/favicons/mstile-310x310.png" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/img/favicons/mstile-70x70.png" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/img/favicons/mstile-70x70.png" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/img/favicons/safari-pinned-tab.svg" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/img/favicons/safari-pinned-tab.svg" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/js/.eslintrc.json" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/js/.eslintrc.json" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/js/docs.min.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/js/docs.min.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/js/src/application.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/js/src/application.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/js/src/ie-emulation-modes-warning.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/js/src/ie-emulation-modes-warning.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/js/src/pwa.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/js/src/pwa.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/js/vendor/anchor.min.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/js/vendor/anchor.min.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/js/vendor/clipboard.min.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/js/vendor/clipboard.min.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/js/vendor/holder.min.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/js/vendor/holder.min.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/js/vendor/jquery-slim.min.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/js/vendor/jquery-slim.min.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/js/vendor/popper.min.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/js/vendor/popper.min.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/scss/_ads.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/scss/_ads.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/scss/_algolia.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/scss/_algolia.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/scss/_anchor.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/scss/_anchor.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/scss/_brand.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/scss/_brand.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/scss/_browser-bugs.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/scss/_browser-bugs.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/scss/_buttons.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/scss/_buttons.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/scss/_callouts.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/scss/_callouts.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/scss/_clipboard-js.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/scss/_clipboard-js.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/scss/_colors.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/scss/_colors.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/scss/_component-examples.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/scss/_component-examples.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/scss/_content.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/scss/_content.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/scss/_examples.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/scss/_examples.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/scss/_footer.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/scss/_footer.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/scss/_masthead.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/scss/_masthead.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/scss/_nav.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/scss/_nav.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/scss/_sidebar.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/scss/_sidebar.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/scss/_skiplink.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/scss/_skiplink.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/scss/_syntax.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/scss/_syntax.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/scss/_variables.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/scss/_variables.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/assets/scss/docs.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/assets/scss/docs.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/build/.eslintrc.json" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/build/.eslintrc.json" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/build/.htmllintrc" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/build/.htmllintrc" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/build/change-version.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/build/change-version.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/build/gcp-key.json.enc" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/build/gcp-key.json.enc" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/build/generate-sri.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/build/generate-sri.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/build/lint-vars.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/build/lint-vars.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/build/postcss.config.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/build/postcss.config.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/build/rollup.config.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/build/rollup.config.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/build/sauce_browsers.json" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/build/sauce_browsers.json" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/build/saucelabs-unit-test.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/build/saucelabs-unit-test.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/build/ship.sh" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/build/ship.sh" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/build/upload-preview.sh" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/build/upload-preview.sh" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/build/vnu-jar.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/build/vnu-jar.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/build/workbox.config.json" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/build/workbox.config.json" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/build/workbox.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/build/workbox.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/composer.json" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/composer.json" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/dist/css/bootstrap-grid.css" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/dist/css/bootstrap-grid.css" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/dist/css/bootstrap-grid.css.map" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/dist/css/bootstrap-grid.css.map" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/dist/css/bootstrap-grid.min.css" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/dist/css/bootstrap-grid.min.css" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/dist/css/bootstrap-grid.min.css.map" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/dist/css/bootstrap-grid.min.css.map" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/dist/css/bootstrap-reboot.css" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/dist/css/bootstrap-reboot.css" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/dist/css/bootstrap-reboot.css.map" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/dist/css/bootstrap-reboot.css.map" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/dist/css/bootstrap-reboot.min.css" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/dist/css/bootstrap-reboot.min.css" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/dist/css/bootstrap-reboot.min.css.map" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/dist/css/bootstrap-reboot.min.css.map" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/dist/css/bootstrap.css" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/dist/css/bootstrap.css" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/dist/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/dist/css/bootstrap.css.map" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/dist/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/dist/css/bootstrap.min.css" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/dist/css/bootstrap.min.css.map" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/dist/css/bootstrap.min.css.map" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/dist/js/bootstrap.bundle.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/dist/js/bootstrap.bundle.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/dist/js/bootstrap.bundle.js.map" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/dist/js/bootstrap.bundle.js.map" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/dist/js/bootstrap.bundle.min.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/dist/js/bootstrap.bundle.min.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/dist/js/bootstrap.bundle.min.js.map" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/dist/js/bootstrap.bundle.min.js.map" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/dist/js/bootstrap.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/dist/js/bootstrap.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/dist/js/bootstrap.js.map" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/dist/js/bootstrap.js.map" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/dist/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/dist/js/bootstrap.min.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/dist/js/bootstrap.min.js.map" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/dist/js/bootstrap.min.js.map" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/about/brand.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/about/brand.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/about/license.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/about/license.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/about/overview.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/about/overview.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/about/translations.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/about/translations.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/browser-bugs.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/browser-bugs.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/components/alerts.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/components/alerts.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/components/badge.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/components/badge.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/components/breadcrumb.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/components/breadcrumb.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/components/button-group.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/components/button-group.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/components/buttons.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/components/buttons.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/components/card.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/components/card.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/components/carousel.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/components/carousel.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/components/collapse.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/components/collapse.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/components/dropdowns.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/components/dropdowns.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/components/forms.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/components/forms.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/components/input-group.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/components/input-group.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/components/jumbotron.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/components/jumbotron.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/components/list-group.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/components/list-group.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/components/modal.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/components/modal.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/components/navbar.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/components/navbar.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/components/navs.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/components/navs.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/components/pagination.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/components/pagination.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/components/popovers.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/components/popovers.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/components/progress.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/components/progress.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/components/scrollspy.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/components/scrollspy.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/components/tooltips.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/components/tooltips.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/content/code.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/content/code.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/content/figures.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/content/figures.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/content/images.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/content/images.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/content/reboot.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/content/reboot.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/content/tables.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/content/tables.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/content/typography.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/content/typography.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/.eslintrc.json" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/.eslintrc.json" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/.stylelintrc" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/.stylelintrc" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/album/album.css" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/album/album.css" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/album/index.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/album/index.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/blog/blog.css" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/blog/blog.css" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/blog/index.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/blog/index.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/carousel/carousel.css" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/carousel/carousel.css" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/carousel/index.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/carousel/index.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/checkout/form-validation.css" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/checkout/form-validation.css" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/checkout/index.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/checkout/index.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/cover/cover.css" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/cover/cover.css" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/cover/index.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/cover/index.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/dashboard/dashboard.css" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/dashboard/dashboard.css" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/dashboard/index.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/dashboard/index.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/floating-labels/floating-labels.css" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/floating-labels/floating-labels.css" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/floating-labels/index.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/floating-labels/index.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/grid/grid.css" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/grid/grid.css" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/grid/index.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/grid/index.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/index.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/index.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/jumbotron/index.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/jumbotron/index.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/jumbotron/jumbotron.css" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/jumbotron/jumbotron.css" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/navbar-bottom/index.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/navbar-bottom/index.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/navbar-fixed/index.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/navbar-fixed/index.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/navbar-fixed/navbar-top-fixed.css" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/navbar-fixed/navbar-top-fixed.css" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/navbar-static/index.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/navbar-static/index.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/navbar-static/navbar-top.css" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/navbar-static/navbar-top.css" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/navbars/index.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/navbars/index.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/navbars/navbar.css" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/navbars/navbar.css" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/offcanvas/index.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/offcanvas/index.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/offcanvas/offcanvas.css" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/offcanvas/offcanvas.css" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/offcanvas/offcanvas.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/offcanvas/offcanvas.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/pricing/index.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/pricing/index.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/pricing/pricing.css" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/pricing/pricing.css" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/product/index.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/product/index.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/product/product.css" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/product/product.css" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/screenshots/album.png" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/screenshots/album.png" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/screenshots/blog.png" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/screenshots/blog.png" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/screenshots/carousel.png" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/screenshots/carousel.png" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/screenshots/checkout.png" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/screenshots/checkout.png" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/screenshots/cover.png" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/screenshots/cover.png" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/screenshots/dashboard.png" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/screenshots/dashboard.png" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/screenshots/floating-labels.png" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/screenshots/floating-labels.png" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/screenshots/grid.png" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/screenshots/grid.png" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/screenshots/jumbotron.png" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/screenshots/jumbotron.png" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/screenshots/navbar-bottom.png" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/screenshots/navbar-bottom.png" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/screenshots/navbar-fixed.png" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/screenshots/navbar-fixed.png" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/screenshots/navbar-static.png" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/screenshots/navbar-static.png" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/screenshots/navbars.png" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/screenshots/navbars.png" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/screenshots/offcanvas.png" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/screenshots/offcanvas.png" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/screenshots/pricing.png" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/screenshots/pricing.png" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/screenshots/product.png" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/screenshots/product.png" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/screenshots/sign-in.png" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/screenshots/sign-in.png" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/screenshots/starter-template.png" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/screenshots/starter-template.png" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/screenshots/sticky-footer-navbar.png" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/screenshots/sticky-footer-navbar.png" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/screenshots/sticky-footer.png" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/screenshots/sticky-footer.png" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/sign-in/index.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/sign-in/index.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/sign-in/signin.css" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/sign-in/signin.css" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/starter-template/index.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/starter-template/index.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/starter-template/starter-template.css" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/starter-template/starter-template.css" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/sticky-footer-navbar/index.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/sticky-footer-navbar/index.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/sticky-footer-navbar/sticky-footer-navbar.css" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/sticky-footer-navbar/sticky-footer-navbar.css" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/sticky-footer/index.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/sticky-footer/index.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/sticky-footer/sticky-footer.css" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/sticky-footer/sticky-footer.css" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/tooltip-viewport/index.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/tooltip-viewport/index.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/tooltip-viewport/tooltip-viewport.css" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/tooltip-viewport/tooltip-viewport.css" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/examples/tooltip-viewport/tooltip-viewport.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/examples/tooltip-viewport/tooltip-viewport.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/extend/approach.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/extend/approach.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/extend/icons.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/extend/icons.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/extend/index.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/extend/index.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/getting-started/accessibility.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/getting-started/accessibility.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/getting-started/best-practices.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/getting-started/best-practices.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/getting-started/browsers-devices.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/getting-started/browsers-devices.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/getting-started/build-tools.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/getting-started/build-tools.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/getting-started/contents.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/getting-started/contents.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/getting-started/download.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/getting-started/download.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/getting-started/introduction.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/getting-started/introduction.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/getting-started/javascript.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/getting-started/javascript.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/getting-started/theming.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/getting-started/theming.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/getting-started/webpack.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/getting-started/webpack.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/layout/grid.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/layout/grid.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/layout/media-object.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/layout/media-object.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/layout/overview.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/layout/overview.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/layout/utilities-for-layout.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/layout/utilities-for-layout.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/migration.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/migration.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/utilities/borders.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/utilities/borders.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/utilities/clearfix.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/utilities/clearfix.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/utilities/close-icon.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/utilities/close-icon.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/utilities/colors.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/utilities/colors.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/utilities/display.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/utilities/display.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/utilities/embed.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/utilities/embed.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/utilities/flex.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/utilities/flex.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/utilities/float.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/utilities/float.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/utilities/image-replacement.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/utilities/image-replacement.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/utilities/position.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/utilities/position.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/utilities/screenreaders.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/utilities/screenreaders.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/utilities/sizing.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/utilities/sizing.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/utilities/spacing.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/utilities/spacing.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/utilities/text.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/utilities/text.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/utilities/vertical-align.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/utilities/vertical-align.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/docs/4.0/utilities/visibility.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/docs/4.0/utilities/visibility.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/favicon.ico" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/favicon.ico" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/index.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/index.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/dist/alert.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/dist/alert.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/dist/alert.js.map" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/dist/alert.js.map" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/dist/button.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/dist/button.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/dist/button.js.map" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/dist/button.js.map" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/dist/carousel.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/dist/carousel.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/dist/carousel.js.map" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/dist/carousel.js.map" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/dist/collapse.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/dist/collapse.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/dist/collapse.js.map" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/dist/collapse.js.map" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/dist/dropdown.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/dist/dropdown.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/dist/dropdown.js.map" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/dist/dropdown.js.map" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/dist/index.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/dist/index.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/dist/index.js.map" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/dist/index.js.map" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/dist/modal.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/dist/modal.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/dist/modal.js.map" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/dist/modal.js.map" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/dist/popover.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/dist/popover.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/dist/popover.js.map" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/dist/popover.js.map" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/dist/scrollspy.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/dist/scrollspy.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/dist/scrollspy.js.map" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/dist/scrollspy.js.map" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/dist/tab.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/dist/tab.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/dist/tab.js.map" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/dist/tab.js.map" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/dist/tooltip.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/dist/tooltip.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/dist/tooltip.js.map" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/dist/tooltip.js.map" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/dist/util.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/dist/util.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/dist/util.js.map" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/dist/util.js.map" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/src/alert.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/src/alert.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/src/button.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/src/button.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/src/carousel.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/src/carousel.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/src/collapse.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/src/collapse.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/src/dropdown.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/src/dropdown.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/src/index.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/src/index.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/src/modal.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/src/modal.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/src/popover.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/src/popover.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/src/scrollspy.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/src/scrollspy.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/src/tab.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/src/tab.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/src/tooltip.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/src/tooltip.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/src/util.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/src/util.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/tests/README.md" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/tests/README.md" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/tests/index.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/tests/index.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/tests/karma.conf.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/tests/karma.conf.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/tests/unit/.eslintrc.json" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/tests/unit/.eslintrc.json" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/tests/unit/alert.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/tests/unit/alert.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/tests/unit/button.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/tests/unit/button.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/tests/unit/carousel.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/tests/unit/carousel.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/tests/unit/collapse.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/tests/unit/collapse.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/tests/unit/dropdown.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/tests/unit/dropdown.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/tests/unit/modal.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/tests/unit/modal.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/tests/unit/popover.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/tests/unit/popover.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/tests/unit/scrollspy.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/tests/unit/scrollspy.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/tests/unit/tab.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/tests/unit/tab.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/tests/unit/tooltip.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/tests/unit/tooltip.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/tests/unit/util.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/tests/unit/util.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/tests/vendor/jquery-1.9.1.min.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/tests/vendor/jquery-1.9.1.min.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/tests/vendor/qunit.css" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/tests/vendor/qunit.css" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/tests/vendor/qunit.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/tests/vendor/qunit.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/tests/visual/alert.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/tests/visual/alert.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/tests/visual/button.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/tests/visual/button.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/tests/visual/carousel.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/tests/visual/carousel.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/tests/visual/collapse.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/tests/visual/collapse.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/tests/visual/dropdown.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/tests/visual/dropdown.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/tests/visual/modal.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/tests/visual/modal.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/tests/visual/popover.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/tests/visual/popover.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/tests/visual/scrollspy.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/tests/visual/scrollspy.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/tests/visual/tab.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/tests/visual/tab.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/js/tests/visual/tooltip.html" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/js/tests/visual/tooltip.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/nuget/MyGet.ps1" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/nuget/MyGet.ps1" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/nuget/bootstrap.nuspec" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/nuget/bootstrap.nuspec" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/nuget/bootstrap.sass.nuspec" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/nuget/bootstrap.sass.nuspec" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/package-lock.json" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/package-lock.json" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/package.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/package.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/package.json" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/package.json" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/robots.txt" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/robots.txt" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/sache.json" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/sache.json" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/_alert.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/_alert.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/_badge.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/_badge.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/_breadcrumb.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/_breadcrumb.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/_button-group.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/_button-group.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/_buttons.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/_buttons.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/_card.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/_card.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/_carousel.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/_carousel.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/_close.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/_close.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/_code.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/_code.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/_custom-forms.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/_custom-forms.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/_dropdown.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/_dropdown.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/_forms.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/_forms.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/_functions.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/_functions.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/_grid.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/_grid.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/_images.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/_images.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/_input-group.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/_input-group.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/_jumbotron.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/_jumbotron.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/_list-group.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/_list-group.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/_media.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/_media.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/_mixins.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/_mixins.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/_modal.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/_modal.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/_nav.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/_nav.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/_navbar.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/_navbar.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/_pagination.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/_pagination.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/_popover.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/_popover.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/_print.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/_print.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/_progress.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/_progress.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/_reboot.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/_reboot.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/_root.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/_root.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/_tables.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/_tables.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/_tooltip.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/_tooltip.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/_transitions.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/_transitions.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/_type.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/_type.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/_utilities.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/_utilities.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/_variables.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/_variables.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/bootstrap-grid.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/bootstrap-grid.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/bootstrap-reboot.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/bootstrap-reboot.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/bootstrap.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/bootstrap.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/mixins/_alert.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/mixins/_alert.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/mixins/_background-variant.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/mixins/_background-variant.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/mixins/_badge.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/mixins/_badge.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/mixins/_border-radius.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/mixins/_border-radius.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/mixins/_box-shadow.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/mixins/_box-shadow.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/mixins/_breakpoints.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/mixins/_breakpoints.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/mixins/_buttons.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/mixins/_buttons.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/mixins/_caret.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/mixins/_caret.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/mixins/_clearfix.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/mixins/_clearfix.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/mixins/_float.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/mixins/_float.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/mixins/_forms.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/mixins/_forms.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/mixins/_gradients.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/mixins/_gradients.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/mixins/_grid-framework.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/mixins/_grid-framework.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/mixins/_grid.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/mixins/_grid.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/mixins/_hover.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/mixins/_hover.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/mixins/_image.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/mixins/_image.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/mixins/_list-group.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/mixins/_list-group.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/mixins/_lists.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/mixins/_lists.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/mixins/_nav-divider.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/mixins/_nav-divider.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/mixins/_navbar-align.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/mixins/_navbar-align.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/mixins/_pagination.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/mixins/_pagination.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/mixins/_reset-text.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/mixins/_reset-text.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/mixins/_resize.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/mixins/_resize.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/mixins/_screen-reader.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/mixins/_screen-reader.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/mixins/_size.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/mixins/_size.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/mixins/_table-row.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/mixins/_table-row.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/mixins/_text-emphasis.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/mixins/_text-emphasis.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/mixins/_text-hide.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/mixins/_text-hide.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/mixins/_text-truncate.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/mixins/_text-truncate.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/mixins/_transition.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/mixins/_transition.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/mixins/_visibility.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/mixins/_visibility.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/utilities/_align.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/utilities/_align.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/utilities/_background.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/utilities/_background.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/utilities/_borders.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/utilities/_borders.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/utilities/_clearfix.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/utilities/_clearfix.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/utilities/_display.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/utilities/_display.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/utilities/_embed.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/utilities/_embed.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/utilities/_flex.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/utilities/_flex.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/utilities/_float.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/utilities/_float.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/utilities/_position.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/utilities/_position.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/utilities/_screenreaders.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/utilities/_screenreaders.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/utilities/_sizing.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/utilities/_sizing.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/utilities/_spacing.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/utilities/_spacing.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/utilities/_text.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/utilities/_text.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/scss/utilities/_visibility.scss" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/scss/utilities/_visibility.scss" />
-      <change beforePath="$PROJECT_DIR$/Agenda/bootstrap/sw.js" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/sw.js" />
-      <change beforePath="$PROJECT_DIR$/Agenda/html/agregar_clientes.html" afterPath="$PROJECT_DIR$/Agenda/templates/Agendas/agregar_clientes.html" />
-      <change beforePath="$PROJECT_DIR$/Agenda/static/blank.gif" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/blank.gif" />
-      <change beforePath="$PROJECT_DIR$/Agenda/static/bottom.png" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bottom.png" />
-      <change beforePath="$PROJECT_DIR$/Agenda/static/shadow.gif" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/shadow.gif" />
-      <change beforePath="$PROJECT_DIR$/Agenda/static/top.png" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/top.png" />
+      <change beforePath="$PROJECT_DIR$/Agenda/models.py" afterPath="$PROJECT_DIR$/Agenda/models.py" />
+      <change beforePath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/dist/css/bootstrap.css" afterPath="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/dist/css/bootstrap.css" />
+      <change beforePath="$PROJECT_DIR$/Agenda/templates/Agendas/Test.html" afterPath="$PROJECT_DIR$/Agenda/templates/Agendas/Index.html" />
+      <change beforePath="$PROJECT_DIR$/Agenda/templates/Agendas/agregar_clientes.html" afterPath="$PROJECT_DIR$/Agenda/templates/Agendas/agregar_clientes.html" />
       <change beforePath="$PROJECT_DIR$/Agenda/urls.py" afterPath="$PROJECT_DIR$/Agenda/urls.py" />
       <change beforePath="$PROJECT_DIR$/Agenda/views.py" afterPath="$PROJECT_DIR$/Agenda/views.py" />
     </list>
@@ -462,10 +32,8 @@
         <entry file="file://$PROJECT_DIR$/Agenda/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="84">
-              <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-              <folding>
-                <element signature="e#0#28#0" expanded="true" />
-              </folding>
+              <caret line="8" column="58" lean-forward="false" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -473,57 +41,103 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Agenda/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="308">
+              <caret line="22" column="39" lean-forward="false" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Agenda/templates/Agendas/Index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="34" column="47" lean-forward="false" selection-start-line="34" selection-start-column="47" selection-end-line="34" selection-end-column="47" />
+              <folding>
+                <element signature="e#11397#11403#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="eventos.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Agenda/templates/Agendas/eventos.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="392">
+              <caret line="43" column="86" lean-forward="true" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="86" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Agenda/templates/Agendas/Test.html">
+      <file leaf-file-name="header.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Agenda/templates/Agendas/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="693">
-              <caret line="211" column="11" lean-forward="true" selection-start-line="211" selection-start-column="11" selection-end-line="211" selection-end-column="11" />
+            <state relative-caret-position="448">
+              <caret line="50" column="76" lean-forward="false" selection-start-line="50" selection-start-column="76" selection-end-line="50" selection-end-column="76" />
               <folding>
-                <element signature="e#11842#11848#0#HTML" expanded="true" />
+                <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="e#2626#2632#0#HTML" expanded="true" />
+                <element signature="e#2878#2963#0#HTML" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="agregar_clientes.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Agenda/templates/Agendas/agregar_clientes.html">
+      <file leaf-file-name="head.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Agenda/templates/Agendas/head.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="118" column="140" lean-forward="false" selection-start-line="118" selection-start-column="140" selection-end-line="118" selection-end-column="140" />
+            <state relative-caret-position="168">
+              <caret line="12" column="90" lean-forward="false" selection-start-line="12" selection-start-column="90" selection-end-line="12" selection-end-column="90" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Agenda/templates/Agendas/footer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="14">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="20" selection-end-column="7" />
               <folding>
-                <element signature="e#5022#5028#0#HTML" expanded="true" />
+                <element signature="n#footer#0;n#!!top" expanded="false" />
+                <element signature="e#170#176#0#HTML" expanded="true" />
+                <element signature="e#420#509#1#HTML" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="prueba.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Agenda/html/prueba.html">
+      <file leaf-file-name="materiales.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Agenda/templates/Agendas/materiales.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3206">
-              <caret line="229" column="50" lean-forward="false" selection-start-line="229" selection-start-column="50" selection-end-line="229" selection-end-column="50" />
+            <state relative-caret-position="28">
+              <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
               <folding>
-                <element signature="e#11814#11820#0#HTML" expanded="true" />
+                <element signature="e#1282#1288#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AgendaEventos/urls.py">
+      <file leaf-file-name="clientes.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Agenda/templates/Agendas/clientes.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="22" column="40" lean-forward="false" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
-              <folding>
-                <element signature="e#637#669#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="294">
+              <caret line="51" column="13" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="51" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/dist/css/bootstrap.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="156" column="1" lean-forward="true" selection-start-line="156" selection-start-column="1" selection-end-line="156" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -533,14 +147,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>img</find>
+      <find>album</find>
+      <find>strong</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -552,16 +168,24 @@
         <option value="$PROJECT_DIR$/AgendaEventos/settings.py" />
         <option value="$PROJECT_DIR$/Agenda/admin.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/Agenda/models.py" />
         <option value="$PROJECT_DIR$/AgendaEventos/urls.py" />
         <option value="$PROJECT_DIR$/Agenda/agregar_clientes.html" />
         <option value="$PROJECT_DIR$/Agenda/html/agregar_clientes.html" />
         <option value="$PROJECT_DIR$/Agenda/html/prueba.html" />
         <option value="$PROJECT_DIR$/Agenda/templates/Agendas/prueba.html" />
-        <option value="$PROJECT_DIR$/Agenda/views.py" />
-        <option value="$PROJECT_DIR$/Agenda/urls.py" />
         <option value="$PROJECT_DIR$/Agenda/templates/Agendas/Test.html" />
         <option value="$PROJECT_DIR$/Agenda/templates/Agendas/agregar_clientes.html" />
+        <option value="$PROJECT_DIR$/Agenda/templates/Agendas/clientes.html" />
+        <option value="$PROJECT_DIR$/Agenda/models.py" />
+        <option value="$PROJECT_DIR$/Agenda/views.py" />
+        <option value="$PROJECT_DIR$/Agenda/urls.py" />
+        <option value="$PROJECT_DIR$/Agenda/templates/Agendas/Index.html" />
+        <option value="$PROJECT_DIR$/Agenda/templates/Agendas/eventos.html" />
+        <option value="$PROJECT_DIR$/Agenda/templates/Agendas/head.html" />
+        <option value="$PROJECT_DIR$/Agenda/templates/Agendas/footer.html" />
+        <option value="$PROJECT_DIR$/Agenda/templates/Agendas/materiales.html" />
+        <option value="$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/dist/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/Agenda/templates/Agendas/header.html" />
       </list>
     </option>
   </component>
@@ -572,8 +196,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="22" />
-    <option name="width" value="673" />
+    <option name="x" value="387" />
+    <option name="y" value="350" />
+    <option name="width" value="663" />
     <option name="height" value="720" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -630,14 +255,6 @@
               <item name="AgendaEventos" type="b2602c69:ProjectViewProjectNode" />
               <item name="AgendaEventos" type="462c0819:PsiDirectoryNode" />
               <item name="Agenda" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="Agendas" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AgendaEventos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AgendaEventos" type="462c0819:PsiDirectoryNode" />
-              <item name="Agenda" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -667,16 +284,17 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Agenda/static/Agendas" />
+      <recent name="$PROJECT_DIR$/Agenda/templates/Agendas" />
+      <recent name="$PROJECT_DIR$/Agenda/static" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Agenda/static/Agendas" />
       <recent name="$PROJECT_DIR$/Agenda/templates/Agendas" />
       <recent name="$PROJECT_DIR$/Agenda/static" />
       <recent name="$PROJECT_DIR$/Agenda/templates" />
       <recent name="$PROJECT_DIR$/Agenda/html" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Agenda/templates/Agendas" />
-      <recent name="$PROJECT_DIR$/Agenda/static" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -741,7 +359,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2688822" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27265862" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998326" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -756,6 +374,28 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27265862" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998326" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -772,7 +412,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -780,7 +422,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -806,9 +447,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-          <folding>
-            <element signature="e#637#669#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -816,9 +455,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="70">
           <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -826,7 +463,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -834,7 +473,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -860,9 +498,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-          <folding>
-            <element signature="e#637#669#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -870,9 +506,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="56">
           <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -880,7 +514,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -888,7 +524,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -896,9 +531,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -916,9 +549,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-          <folding>
-            <element signature="e#637#669#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -934,7 +565,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -942,7 +575,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -950,9 +582,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="56">
           <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -970,9 +600,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="20" selection-end-column="1" />
-          <folding>
-            <element signature="e#637#669#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -988,7 +616,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="406">
           <caret line="29" column="111" lean-forward="false" selection-start-line="29" selection-start-column="111" selection-end-line="29" selection-end-column="111" />
-          <folding />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1027,21 +657,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Agenda/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="6" column="27" lean-forward="false" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#32#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Agenda/apps.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1061,68 +680,140 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Agenda/templates/Agendas/agregar_clientes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Agenda/html/prueba.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3206">
+        <state relative-caret-position="413">
           <caret line="229" column="50" lean-forward="false" selection-start-line="229" selection-start-column="50" selection-end-line="229" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Agenda/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#11814#11820#0#HTML" expanded="true" />
+            <element signature="e#0#32#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AgendaEventos/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
+        <state relative-caret-position="266">
           <caret line="22" column="40" lean-forward="false" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
-          <folding>
-            <element signature="e#637#669#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Agenda/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Agenda/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Agenda/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        <state relative-caret-position="322">
+          <caret line="26" column="16" lean-forward="false" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="16" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Agenda/templates/Agendas/Test.html">
+    <entry file="file://$PROJECT_DIR$/Agenda/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="693">
-          <caret line="211" column="11" lean-forward="true" selection-start-line="211" selection-start-column="11" selection-end-line="211" selection-end-column="11" />
+        <state relative-caret-position="308">
+          <caret line="22" column="39" lean-forward="false" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
           <folding>
-            <element signature="e#11842#11848#0#HTML" expanded="true" />
+            <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Agenda/templates/Agendas/agregar_clientes.html">
+    <entry file="file://$PROJECT_DIR$/Agenda/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="118" column="140" lean-forward="false" selection-start-line="118" selection-start-column="140" selection-end-line="118" selection-end-column="140" />
+        <state relative-caret-position="84">
+          <caret line="8" column="58" lean-forward="false" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Agenda/templates/Agendas/Index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="34" column="47" lean-forward="false" selection-start-line="34" selection-start-column="47" selection-end-line="34" selection-end-column="47" />
           <folding>
-            <element signature="e#5022#5028#0#HTML" expanded="true" />
+            <element signature="e#11397#11403#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Agenda/templates/Agendas/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="12" column="90" lean-forward="false" selection-start-line="12" selection-start-column="90" selection-end-line="12" selection-end-column="90" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Agenda/templates/Agendas/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="20" selection-end-column="7" />
+          <folding>
+            <element signature="n#footer#0;n#!!top" expanded="false" />
+            <element signature="e#170#176#0#HTML" expanded="true" />
+            <element signature="e#420#509#1#HTML" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Agenda/static/Agendas/bootstrap/dist/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="156" column="1" lean-forward="true" selection-start-line="156" selection-start-column="1" selection-end-line="156" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Agenda/templates/Agendas/materiales.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+          <folding>
+            <element signature="e#1282#1288#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Agenda/templates/Agendas/clientes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="51" column="13" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="51" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Agenda/templates/Agendas/eventos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="43" column="86" lean-forward="true" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Agenda/templates/Agendas/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="50" column="76" lean-forward="false" selection-start-line="50" selection-start-column="76" selection-end-line="50" selection-end-column="76" />
+          <folding>
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#2626#2632#0#HTML" expanded="true" />
+            <element signature="e#2878#2963#0#HTML" expanded="false" />
           </folding>
         </state>
       </provider>
